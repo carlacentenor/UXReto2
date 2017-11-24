@@ -14,16 +14,16 @@ Identificando Elementos de Navegación de :
 
 ![Con titulo](assets/docs/nav1.jpg "titulo")
 
-![Con titulo](assets/docs/nav5.jpg "titulo")
+![Con titulo](assets/docs/nav5.JPG "titulo")
 
 ###  Navegación Facetada 
 
-![Con titulo](assets/docs/nav2.jpg "titulo")
+![Con titulo](assets/docs/nav2.JPG "titulo")
 ###  Navegación Filtrada
 
 ![Con titulo](assets/docs/nav4.jpg "titulo")
 
-![Con titulo](assets/docs/nav3.jpg "titulo")
+![Con titulo](assets/docs/nav3.JPG "titulo")
 
 ---
 Identificando Elementos de Navegación de :
@@ -38,11 +38,11 @@ Identificando Elementos de Navegación de :
 ![Con titulo](assets/docs/na4.JPG "titulo")
 ![Con titulo](assets/docs/na5.JPG "titulo")
 ![Con titulo](assets/docs/na6.JPG "titulo")
-![Con titulo](assets/docs/na8.JPG "titulo")
+![Con titulo](assets/docs/na8.jpg "titulo")
 ![Con titulo](assets/docs/na9.JPG "titulo")
 ![Con titulo](assets/docs/na10.JPG "titulo")
-![Con titulo](assets/docs/na11.JPG "titulo")
-![Con titulo](assets/docs/na12.JPG "titulo")
-![Con titulo](assets/docs/na13.JPG "titulo")
-![Con titulo](assets/docs/na14.JPG "titulo")
-![Con titulo](assets/docs/na15.JPG "titulo")
+![Con titulo](assets/docs/na11.jpg "titulo")
+![Con titulo](assets/docs/na12.jpg "titulo")
+![Con titulo](assets/docs/na13.jpg "titulo")
+![Con titulo](assets/docs/na14.jpg "titulo")
+![Con titulo](assets/docs/na15.jpg "titulo")
