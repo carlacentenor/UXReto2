@@ -30,14 +30,12 @@ Identificando Elementos de Navegación de :
 
 ![Con titulo](assets/docs/logogit.png "titulo")
 
-### Navegación Global
 
 ![Con titulo](assets/docs/na1.JPG "titulo")
 ![Con titulo](assets/docs/na2.JPG "titulo")
 ![Con titulo](assets/docs/na3.JPG "titulo")
 ![Con titulo](assets/docs/na4.JPG "titulo")
 ![Con titulo](assets/docs/na5.JPG "titulo")
-![Con titulo](assets/docs/na6.JPG "titulo")
 ![Con titulo](assets/docs/na8.jpg "titulo")
 ![Con titulo](assets/docs/na9.JPG "titulo")
 ![Con titulo](assets/docs/na10.JPG "titulo")
